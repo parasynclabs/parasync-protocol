@@ -2,6 +2,8 @@
 
 > Privacy Layer 2 for Solana. Built private by construction.
 
+Pump.fun : https://pump.fun/coin/J7aHaB3o4DBApp9QENXCWT1UHeDit98XeAiAgJh2pump
+
 Parasync is a next-generation Privacy Layer 2 built specifically for the Solana ecosystem. It enables confidential transactions and private computation while preserving Solana's speed and efficiency. Designed with zero-knowledge cryptography and lightweight validation, Parasync allows validators to participate using commodity hardware while maintaining low-latency verification and decentralized security. The project's public materials emphasize ~10 ms proof verification, validator participation on laptops, and fee distribution directly to validators without a founder cut. :contentReference[oaicite:0]{index=0}
 
 ---
